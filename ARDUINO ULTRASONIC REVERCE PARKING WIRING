@@ -1,0 +1,29 @@
+Components Needed:
+Arduino Uno
+Ultrasonic Sensor (HC-SR04)
+Red LED
+Green LED
+Buzzer
+Resistors (for LEDs)
+Jumper wires
+Breadboard
+
+Connections:
+
+Ultrasonic Sensor:
+VCC → 5V
+GND → GND
+Trig → Digital Pin 9
+Echo → Digital Pin 10
+
+Red LED:
+Positive (long leg) → Digital Pin 3 (via resistor)
+Negative → GND
+
+Green LED:
+Positive (long leg) → Digital Pin 4 (via resistor)
+Negative → GND
+
+Buzzer:
+Positive → Digital Pin 5
+Negative → GND
